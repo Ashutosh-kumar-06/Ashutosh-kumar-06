@@ -250,33 +250,27 @@
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Trophies
 
 <div align="center">
 
-<!-- Stats & Streak Side by Side -->
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-kumar-06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-kumar-06&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
-</p>
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-kumar-06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-kumar-06&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
+  </p>
 
-<!-- Top Languages -->
-<p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-kumar-06&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
+  <p>
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ashutosh-kumar-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </p>
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-kumar-06&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6347&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-kumar-06&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </p>
 
-</div>
+  <p>
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-kumar-06&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6347&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
+  </p>
 
----
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh-kumar-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -284,18 +278,70 @@
 <!-- Skills Progress Bars -->
 ## 📈 Skill Proficiency
 
-```text
-JavaScript / TypeScript  ██████████████████░░░░░░   75%
-React / Next.js          ████████████████░░░░░░░░   65%
-Node.js / Express        ████████████████░░░░░░░░   65%
-Python / ML              ██████████████░░░░░░░░░░   60%
-C / C++                  ████████████░░░░░░░░░░░░   50%
-HTML / CSS               ██████████████████████░░   90%
-MongoDB                  ██████████████░░░░░░░░░░   60%
-Git / GitHub             ████████████████████░░░░   80%
-Docker / DevOps          ████████░░░░░░░░░░░░░░░░   35%
-Socket.io / WebSockets   ██████████████░░░░░░░░░░   55%
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <b>JavaScript / TypeScript</b>
+        <br />
+        <code>██████████████████░░░░░░</code> <b>75%</b>
+      </td>
+      <td align="left" width="50%">
+        <b>HTML / CSS</b>
+        <br />
+        <code>██████████████████████░░</code> <b>90%</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <b>React / Next.js</b>
+        <br />
+        <code>████████████████░░░░░░░░</code> <b>65%</b>
+      </td>
+      <td align="left" width="50%">
+        <b>Node.js / Express</b>
+        <br />
+        <code>████████████████░░░░░░░░</code> <b>65%</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <b>Python / ML</b>
+        <br />
+        <code>██████████████░░░░░░░░░░</code> <b>60%</b>
+      </td>
+      <td align="left" width="50%">
+        <b>MongoDB</b>
+        <br />
+        <code>██████████████░░░░░░░░░░</code> <b>60%</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <b>Git / GitHub</b>
+        <br />
+        <code>████████████████████░░░░</code> <b>80%</b>
+      </td>
+      <td align="left" width="50%">
+        <b>Socket.io / WebSockets</b>
+        <br />
+        <code>██████████████░░░░░░░░░░</code> <b>55%</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <b>C / C++</b>
+        <br />
+        <code>████████████░░░░░░░░░░░░</code> <b>50%</b>
+      </td>
+      <td align="left" width="50%">
+        <b>Docker / DevOps</b>
+        <br />
+        <code>████████░░░░░░░░░░░░░░░░</code> <b>35%</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
