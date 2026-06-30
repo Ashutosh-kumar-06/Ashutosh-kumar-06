@@ -265,7 +265,8 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/ASHUTOSH_KUMAR_06/">
-    <img src="https://leetcard.jacoblin.cool/ASHUTOSH_KUMAR_06?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img width="49%" src="https://leetcard.jacoblin.cool/ASHUTOSH_KUMAR_06?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img width="49%" src="https://leetcard.jacoblin.cool/ASHUTOSH_KUMAR_06?theme=tokyonight&font=Fira%20Code&ext=contest" alt="LeetCode Contest Rating" />
   </a>
 </div>
 
