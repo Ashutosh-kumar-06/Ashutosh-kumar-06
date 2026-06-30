@@ -1,4 +1,4 @@
-<![CDATA[<!-- Header Banner with Typing Animation -->
+<!-- Header Banner with Typing Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ASHUTOSH%20KUMAR&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=50&descSize=18" width="100%" />
 </div>
@@ -30,30 +30,21 @@
 
 <br/>
 
+---
+
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```yaml
-name: Ashutosh Kumar
-role: Full Stack Developer & ML Enthusiast
-location: India 🇮🇳
-education: Computer Science
-
-currently_learning:
-  - Advanced System Design
-  - Deep Learning & Computer Vision
-  - Cloud-Native Architectures
-
-interests:
-  - Building Full-Stack Web Apps
-  - Machine Learning & AI
-  - Open Source Contribution
-  - Real-Time Systems
-
-fun_fact: "I debug with console.log and I'm proud of it 😄"
-```
+<p>
+  🎓 <b>Computer Science Student</b> passionate about building things that live on the internet<br/><br/>
+  🚀 I love turning complex problems into simple, beautiful and intuitive solutions<br/><br/>
+  🤖 Currently exploring <b>Machine Learning</b>, <b>Computer Vision</b> & <b>System Design</b><br/><br/>
+  🌱 Always learning new technologies and contributing to <b>Open Source</b><br/><br/>
+  💡 Fun fact: <i>"I debug with console.log and I'm proud of it 😄"</i><br/><br/>
+  📍 Based in <b>India</b> 🇮🇳
+</p>
 
 <br clear="both"/>
 
@@ -64,27 +55,43 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" alt="Languages" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### 🧩 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" alt="Frameworks" />
-</p>
+**💻 Languages**
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&theme=dark" alt="Databases & Cloud" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" alt="Languages" />
 
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" alt="Tools" />
-</p>
+</td>
+<td align="center" width="50%">
 
-### 🤖 ML / Data Science
+**🧩 Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" alt="Frameworks" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🗄️ Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&theme=dark" alt="Databases & Cloud" />
+
+</td>
+<td align="center" width="50%">
+
+**🔧 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" alt="Tools" />
+
+</td>
+</tr>
+</table>
+
+**🤖 ML / Data Science**
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -104,112 +111,82 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Budgety-Bud
+<h3 align="center">💰 Budgety-Bud</h3>
+
+<div align="center">
 <a href="https://github.com/Ashutosh-kumar-06/Budgety-bud">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=Budgety-bud&theme=tokyonight&hide_border=true&border_radius=15" alt="Budgety-bud" width="100%"/>
 </a>
-
-**Personal Finance & Wellness App**
-
-`TypeScript` `React` `Full Stack`
-
+<br/><br/>
+<p><b>Personal Finance & Wellness App</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Full_Stack-6C63FF?style=flat-square" />
 </p>
+<p><img src="https://img.shields.io/badge/🟢_Status-Active-brightgreen?style=flat-square" /></p>
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 StayNest Marketplace
+<h3 align="center">🏠 StayNest Marketplace</h3>
+
+<div align="center">
 <a href="https://github.com/Ashutosh-kumar-06/StayNest-Home-Rental-Marketplace">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=StayNest-Home-Rental-Marketplace&theme=tokyonight&hide_border=true&border_radius=15" alt="StayNest" width="100%"/>
 </a>
-
-**Property Rental Platform**
-
-`JavaScript` `Web App` `Vercel`
-
+<br/><br/>
+<p><b>Property Rental Platform</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_App-FF6347?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
 </p>
+<p><img src="https://img.shields.io/badge/🟢_Status-Deployed-brightgreen?style=flat-square" /></p>
+</div>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Page Replacement Simulator
+<h3 align="center">📊 Page Replacement Simulator</h3>
+
+<div align="center">
 <a href="https://github.com/Ashutosh-kumar-06/Page-Replacement-Algorithm-Simulator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=Page-Replacement-Algorithm-Simulator&theme=tokyonight&hide_border=true&border_radius=15" alt="Page Replacement" width="100%"/>
 </a>
-
-**OS Algorithm Visualizer** ⭐ 1 · 🍴 2
-
-`JavaScript` `Algorithms` `Visualization`
-
+<br/><br/>
+<p><b>OS Algorithm Visualizer</b> ⭐ 1 · 🍴 2</p>
 <p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visualization-purple?style=flat-square" />
 </p>
+<p><img src="https://img.shields.io/badge/🟢_Status-Deployed_on_Vercel-brightgreen?style=flat-square" /></p>
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 Deduplix Price List
+<h3 align="center">🔍 Deduplix Price List</h3>
+
+<div align="center">
 <a href="https://github.com/Ashutosh-kumar-06/deduplix-price-list">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=deduplix-price-list&theme=tokyonight&hide_border=true&border_radius=15" alt="Deduplix" width="100%"/>
 </a>
-
-**Intelligent Duplicate Detector** ⭐ 1
-
-`JavaScript` `Data Integrity` `Automation`
-
+<br/><br/>
+<p><b>Intelligent Duplicate Detector</b> ⭐ 1</p>
 <p>
-  <img src="https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📍 Real-Time Device Tracker
-<a href="https://github.com/Ashutosh-kumar-06/real-time-device-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=real-time-device-tracker&theme=tokyonight&hide_border=true&border_radius=15" alt="Device Tracker" width="100%"/>
-</a>
-
-**Real-Time Location Tracking System**
-
-`JavaScript` `Socket.io` `Maps API`
-
-<p>
-  <img src="https://img.shields.io/badge/Real--Time-WebSockets-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Integrity-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-green?style=flat-square" />
 </p>
-
-</td>
-<td width="50%">
-
-### 🛒 NutriBazaar
-<a href="https://github.com/Ashutosh-kumar-06/NutriBazaar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=NutriBazaar&theme=tokyonight&hide_border=true&border_radius=15" alt="NutriBazaar" width="100%"/>
-</a>
-
-**E-Commerce Nutrition Store**
-
-`HTML` `CSS` `JavaScript`
-
-<p>
-  <img src="https://img.shields.io/badge/E--Commerce-Platform-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+<p><img src="https://img.shields.io/badge/🟢_Status-Deployed_on_Vercel-brightgreen?style=flat-square" /></p>
+</div>
 
 </td>
 </tr>
@@ -224,40 +201,46 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🏡 House Price Predictor
+<h3>🏡 House Price Predictor</h3>
+
 <a href="https://github.com/Ashutosh-kumar-06/Prodigy-ml-01">
   <img src="https://img.shields.io/badge/Linear_Regression-Model-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML-01" />
 </a>
-
-Linear Regression model to predict house prices using key features
-
-`Python` `Scikit-learn` `Pandas`
+<br/><br/>
+<p>Linear Regression model to predict house prices using key features</p>
+<p>
+  <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code>
+</p>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 👥 Customer Segmentation
+<h3>👥 Customer Segmentation</h3>
+
 <a href="https://github.com/Ashutosh-kumar-06/Prodigy-ml-02">
   <img src="https://img.shields.io/badge/K--Means_Clustering-Model-5C3EE8?style=for-the-badge&logo=python&logoColor=white" alt="ML-02" />
 </a>
-
-K-Means clustering to segment retail customers by purchase history
-
-`Python` `K-Means` `Data Analysis`
+<br/><br/>
+<p>K-Means clustering to segment retail customers by purchase history</p>
+<p>
+  <code>Python</code> <code>K-Means</code> <code>Data Analysis</code>
+</p>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 👁️ OpenCV Practice
+<h3>👁️ OpenCV Practice</h3>
+
 <a href="https://github.com/Ashutosh-kumar-06/openCV_practice">
   <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </a>
-
-Hands-on exploration of Computer Vision tools and techniques
-
-`Python` `OpenCV` `Image Processing`
+<br/><br/>
+<p>Hands-on exploration of Computer Vision tools and techniques</p>
+<p>
+  <code>Python</code> <code>OpenCV</code> <code>Image Processing</code>
+</p>
 
 </td>
 </tr>
@@ -349,10 +332,10 @@ Socket.io / WebSockets   ██████████████░░░░�
   <a href="https://github.com/Ashutosh-kumar-06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/ashutosh-kumar-22595036a">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kumarashutosh06@gmail.com">
+  <a href="mailto:ashutosh@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -382,5 +365,3 @@ Socket.io / WebSockets   ██████████████░░░░�
 <div align="center">
   <sub>⭐ Star my repos if you find them useful! • Built with ❤️ by <a href="https://github.com/Ashutosh-kumar-06">Ashutosh Kumar</a></sub>
 </div>
-]]>
-
