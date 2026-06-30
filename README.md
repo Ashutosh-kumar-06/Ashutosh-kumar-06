@@ -33,9 +33,9 @@
 ---
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
   🎓 <b>Computer Science Student</b> passionate about building things that live on the internet<br/><br/>
@@ -113,13 +113,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💰 Budgety-Bud</h3>
+<h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/Budgety-bud">💰 Budgety-Bud</a></h3>
 
 <div align="center">
-<a href="https://github.com/Ashutosh-kumar-06/Budgety-bud">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=Budgety-bud&theme=tokyonight&hide_border=true&border_radius=15" alt="Budgety-bud" width="100%"/>
-</a>
-<br/><br/>
 <p><b>Personal Finance & Wellness App</b></p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -132,13 +128,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🏠 StayNest Marketplace</h3>
+<h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/StayNest-Home-Rental-Marketplace">🏠 StayNest Marketplace</a></h3>
 
 <div align="center">
-<a href="https://github.com/Ashutosh-kumar-06/StayNest-Home-Rental-Marketplace">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=StayNest-Home-Rental-Marketplace&theme=tokyonight&hide_border=true&border_radius=15" alt="StayNest" width="100%"/>
-</a>
-<br/><br/>
 <p><b>Property Rental Platform</b></p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -153,13 +145,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Page Replacement Simulator</h3>
+<h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/Page-Replacement-Algorithm-Simulator">📊 Page Replacement Simulator</a></h3>
 
 <div align="center">
-<a href="https://github.com/Ashutosh-kumar-06/Page-Replacement-Algorithm-Simulator">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=Page-Replacement-Algorithm-Simulator&theme=tokyonight&hide_border=true&border_radius=15" alt="Page Replacement" width="100%"/>
-</a>
-<br/><br/>
 <p><b>OS Algorithm Visualizer</b> ⭐ 1 · 🍴 2</p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -172,13 +160,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔍 Deduplix Price List</h3>
+<h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/deduplix-price-list">🔍 Deduplix Price List</a></h3>
 
 <div align="center">
-<a href="https://github.com/Ashutosh-kumar-06/deduplix-price-list">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh-kumar-06&repo=deduplix-price-list&theme=tokyonight&hide_border=true&border_radius=15" alt="Deduplix" width="100%"/>
-</a>
-<br/><br/>
 <p><b>Intelligent Duplicate Detector</b> ⭐ 1</p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
