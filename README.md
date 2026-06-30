@@ -35,7 +35,7 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 
 <p>
   🎓 <b>Computer Science Student</b> passionate about building things that live on the internet<br/><br/>
@@ -250,25 +250,20 @@
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Analytics & Trophies
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
   <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-kumar-06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh-kumar-06&theme=tokyonight" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-kumar-06&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
   </div>
 
   <br />
 
   <div>
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ashutosh-kumar-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  </div>
-
-  <br />
-
-  <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-kumar-06&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashutosh-kumar-06&theme=tokyonight" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashutosh-kumar-06&theme=tokyonight&utcOffset=8" alt="Productive Time" />
   </div>
 
   <br />
