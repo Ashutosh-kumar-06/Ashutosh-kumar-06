@@ -260,6 +260,17 @@
 
 ---
 
+<!-- LeetCode Stats Section -->
+## 🧠 Competitive Programming & DSA
+
+<div align="center">
+  <a href="https://leetcode.com/u/ASHUTOSH_KUMAR_06/">
+    <img src="https://leetcard.jacoblin.cool/ASHUTOSH_KUMAR_06?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 <!-- Skills Progress Bars -->
 ## 📈 Skill Proficiency
 
@@ -365,6 +376,9 @@
   </a>
   <a href="https://linkedin.com/in/ashutosh-kumar-22595036a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/ASHUTOSH_KUMAR_06/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:ashutosh@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
