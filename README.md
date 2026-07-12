@@ -113,6 +113,21 @@
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/QuantumEdge">⚛️ QuantumEdge</a></h3>
+
+<div align="center">
+<p><b>Distributed Quantum Execution Platform</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+</p>
+<p><img src="https://img.shields.io/badge/🟢_Status-Active-brightgreen?style=flat-square" /></p>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/Budgety-bud">💰 Budgety-Bud</a></h3>
 
 <div align="center">
@@ -126,6 +141,8 @@
 </div>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/StayNest-Home-Rental-Marketplace">🏠 StayNest Marketplace</a></h3>
@@ -141,8 +158,6 @@
 </div>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/Page-Replacement-Algorithm-Simulator">📊 Page Replacement Simulator</a></h3>
@@ -153,21 +168,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Algorithms-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Visualization-purple?style=flat-square" />
-</p>
-<p><img src="https://img.shields.io/badge/🟢_Status-Deployed_on_Vercel-brightgreen?style=flat-square" /></p>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/Ashutosh-kumar-06/deduplix-price-list">🔍 Deduplix Price List</a></h3>
-
-<div align="center">
-<p><b>Intelligent Duplicate Detector</b> ⭐ 1</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Integrity-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-green?style=flat-square" />
 </p>
 <p><img src="https://img.shields.io/badge/🟢_Status-Deployed_on_Vercel-brightgreen?style=flat-square" /></p>
 </div>
