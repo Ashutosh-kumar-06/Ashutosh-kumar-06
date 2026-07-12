@@ -122,7 +122,7 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
 </p>
-<p><img src="https://img.shields.io/badge/🟢_Status-Active-brightgreen?style=flat-square" /></p>
+<p><a href="https://quantumedge.duckdns.org/"><img src="https://img.shields.io/badge/☁️_Deployed_on-AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a></p>
 </div>
 
 </td>
