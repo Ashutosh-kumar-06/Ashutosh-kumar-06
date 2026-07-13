@@ -267,6 +267,10 @@
   <a href="https://leetcode.com/u/ASHUTOSH_KUMAR_06/">
     <img src="https://leetcard.jacoblin.cool/ASHUTOSH_KUMAR_06?theme=tokyonight&font=Fira%20Code&ext=contest" alt="LeetCode Contest Rating" />
   </a>
+  <br /><br />
+  <p>
+    📚 <b>Check out my C++ solutions to the <a href="https://github.com/Ashutosh-kumar-06/CSES-problem-set-solutions">CSES Problem Set</a></b>
+  </p>
 </div>
 
 ---
